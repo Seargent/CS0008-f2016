@@ -1,0 +1,24 @@
+Day_1 = ('Monday')
+Day_2 = ('Tuesady')
+Day_3 = ('Wednesday')
+Day_4 = ('Thursday')
+Day_5 = ('Friday')
+Day_6 = ('Saturday')
+Day_7 = ('Sunday')
+n = int(input('Print your number:'))
+if n==1:
+    print(Day_1)
+elif n==2:
+    print(Day_2)
+elif n==3:
+    print(Day_3)
+elif n==4:
+    print(Day_4)
+elif n==5:
+    print(Day_5)
+elif n==6:
+    print(Day_6)
+elif n==7:
+    print(Day_7)
+else:
+    print('Error')

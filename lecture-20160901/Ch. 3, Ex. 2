@@ -1,0 +1,14 @@
+n = input('Type length and width of both rectangles in such order - length and width of''/'
+          ' first rectangle and then length and width of second rectangle:').split (' ')
+Length_1 = int(n[0])
+Width_1 = int(n[1])
+Length_2 = int(n[2])
+Width_2 = int(n[3])
+area_1 = Length_1*Width_1
+area_2 = Length_2*Width_2
+if area_1>area_2:
+    print('First rectangle has bigger area')
+elif area_1<area_2:
+    print('Second rectangle has bigger area')
+else:
+    print('Both rectangles have equal area')
