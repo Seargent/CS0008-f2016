@@ -1,0 +1,10 @@
+Please, choose either USC(u) or Metric(m) system:m
+Please, enter the total distance driven:60
+Please, enter the total gasoline spent:7
+ 
+                                       USC                Metric
+Distance ______________:       37.282       miles       60.000          Km
+Gas ___________________:        1.849     gallons       60.000      Liters
+Consumption ___________:       20.161         mpg       11.667     L/100Km
+ 
+Gas consumption rating: Average
