@@ -1,0 +1,4 @@
+i=[float(i) if not i.isalpha() else i for i in input("Please provide 3 args: ").split(" ")]
+a=[(i[1]*0.621371,i[2]*0.264172,(i[1]*0.621371)/(i[2]*0.264172)),(i[1],i[2],(100*i[2])/i[1])]if i[0]=='metrics'else[(i[1],i[2],i[1]/i[2]),(i[1]*.00160934,i[2]*.00378541,(i[2]*.378541)/(i[1]*.00160934))]
+x='Excellent'if a[1][2]<=8else"Good"if(a[1][2]<=10 and a[1][2]>8)else"Average"if(a[1][2]<=15and a[1][2]>10)else"Poor"if(a[1][2]<=20and a[1][2]>15)else"Extremely poor"
+print('\t\t\tUSC\t\t\tMetrics\nDistance\t%.3f\t%.3f\nGas\t\t\t%.3f\t%.3f\nConsumption\t%.3f\t\t%.3f\nGas Consumption Rating:\t%s'% (a[0][0],a[1][0],a[0][1],a[1][1],a[0][2],a[1][2],x))
