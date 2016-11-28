@@ -1,0 +1,516 @@
+Number of files:	3
+Number of lines:	453
+Total distance:	23222.955950
+Total distance for:	Dorothy is:	 49.362600
+Total distance for:	Felicidad is:	 97.826027
+Total distance for:	Marnie is:	 93.052183
+Total distance for:	Vivienne is:	 34.636966
+Total distance for:	Brenna is:	 76.978974
+Total distance for:	Evon is:	 89.727968
+Total distance for:	Edwina is:	 6.032846
+Total distance for:	Elisa is:	 23.317412
+Total distance for:	Leatha is:	 83.938498
+Total distance for:	Marlena is:	 49.037160
+Total distance for:	Cecila is:	 37.332084
+Total distance for:	Chi is:	 70.142741
+Total distance for:	Alayna is:	 31.432770
+Total distance for:	Cecil is:	 24.880823
+Total distance for:	Candi is:	 38.059726
+Total distance for:	Hilaria is:	 120.550608
+Total distance for:	Brigida is:	 1.612420
+Total distance for:	Annie is:	 51.193342
+Total distance for:	Dotty is:	 57.371442
+Total distance for:	Gabriella is:	 85.799784
+Total distance for:	Jeane is:	 51.533344
+Total distance for:	Johnathon is:	 93.430318
+Total distance for:	Catina is:	 9.995139
+Total distance for:	Saul is:	 54.972137
+Total distance for:	Brenton is:	 69.287117
+Total distance for:	Amberly is:	 17.552908
+Total distance for:	Alex is:	 0.057889
+Total distance for:	Celinda is:	 43.179256
+Total distance for:	Ima is:	 55.858159
+Total distance for:	Randell is:	 136.040422
+Total distance for:	Merrilee is:	 89.641339
+Total distance for:	Troy is:	 76.037523
+Total distance for:	Jack is:	 78.340777
+Total distance for:	Kenna is:	 63.099909
+Total distance for:	Shu is:	 71.821236
+Total distance for:	Caroll is:	 8.664723
+Total distance for:	Jaime is:	 80.060600
+Total distance for:	Sammy is:	 88.316848
+Total distance for:	Caprice is:	 91.182770
+Total distance for:	Donita is:	 63.214153
+Total distance for:	Delpha is:	 67.196849
+Total distance for:	Lorinda is:	 24.448245
+Total distance for:	Kindra is:	 11.226623
+Total distance for:	Scot is:	 45.709631
+Total distance for:	Joycelyn is:	 80.383989
+Total distance for:	Chassidy is:	 54.154806
+Total distance for:	Latoria is:	 19.723759
+Total distance for:	Floria is:	 75.091687
+Total distance for:	Alma is:	 33.384306
+Total distance for:	Angelyn is:	 66.382294
+Total distance for:	Delmar is:	 68.718208
+Total distance for:	Demarcus is:	 22.981595
+Total distance for:	Leon is:	 145.659980
+Total distance for:	Norberto is:	 77.003704
+Total distance for:	Diego is:	 61.193085
+Total distance for:	Aleen is:	 62.365515
+Total distance for:	Beverley is:	 45.901182
+Total distance for:	Ernestine is:	 65.417333
+Total distance for:	Floyd is:	 99.197075
+Total distance for:	Stanley is:	 35.425533
+Total distance for:	Hanh is:	 7.758246
+Total distance for:	Peggy is:	 75.899578
+Total distance for:	Elma is:	 15.252260
+Total distance for:	Ruthie is:	 50.490432
+Total distance for:	Kassie is:	 38.198127
+Total distance for:	Tamesha is:	 95.523127
+Total distance for:	Ignacia is:	 88.375173
+Total distance for:	Morris is:	 49.804529
+Total distance for:	Bud is:	 35.378449
+Total distance for:	Yoko is:	 79.756302
+Total distance for:	Alda is:	 19.416507
+Total distance for:	Selena is:	 87.707913
+Total distance for:	Madeleine is:	 15.556016
+Total distance for:	Ariana is:	 89.118313
+Total distance for:	Hien is:	 55.649615
+Total distance for:	Weston is:	 61.631666
+Total distance for:	Loreen is:	 92.463590
+Total distance for:	Grayce is:	 67.339114
+Total distance for:	Roosevelt is:	 61.508516
+Total distance for:	Sophie is:	 12.894069
+Total distance for:	Jamison is:	 99.497336
+Total distance for:	Cherish is:	 37.646664
+Total distance for:	Earl is:	 92.894598
+Total distance for:	Nichol is:	 67.972741
+Total distance for:	Will is:	 11.693532
+Total distance for:	Clarisa is:	 5.297060
+Total distance for:	Elvis is:	 19.093139
+Total distance for:	Velva is:	 39.387567
+Total distance for:	Jazmin is:	 52.208645
+Total distance for:	Angila is:	 29.455472
+Total distance for:	Joie is:	 72.650919
+Total distance for:	Julie is:	 108.488737
+Total distance for:	Sherman is:	 71.868326
+Total distance for:	Thomasena is:	 174.585077
+Total distance for:	Kimberly is:	 22.520187
+Total distance for:	Joella is:	 86.953195
+Total distance for:	Hipolito is:	 99.757095
+Total distance for:	Frances is:	 60.372967
+Total distance for:	Minnie is:	 70.748446
+Total distance for:	Lenora is:	 19.109425
+Total distance for:	Todd is:	 116.557602
+Total distance for:	Mamie is:	 68.923959
+Total distance for:	Rosanne is:	 15.490970
+Total distance for:	Janean is:	 65.056508
+Total distance for:	Valentina is:	 94.753111
+Total distance for:	Maximo is:	 130.947924
+Total distance for:	Marsha is:	 72.196488
+Total distance for:	Florentina is:	 91.245405
+Total distance for:	Celeste is:	 6.620842
+Total distance for:	Hyon is:	 23.630370
+Total distance for:	Annamae is:	 56.457418
+Total distance for:	Alejandrina is:	 60.377253
+Total distance for:	Leora is:	 106.720350
+Total distance for:	January is:	 96.249986
+Total distance for:	Garfield is:	 99.263716
+Total distance for:	Ronna is:	 55.577836
+Total distance for:	Lura is:	 54.716264
+Total distance for:	Vickie is:	 26.487493
+Total distance for:	Roxane is:	 56.525237
+Total distance for:	Bulah is:	 52.040888
+Total distance for:	Elayne is:	 32.372246
+Total distance for:	Roland is:	 99.917610
+Total distance for:	Felipa is:	 98.511818
+Total distance for:	Anika is:	 101.488530
+Total distance for:	Charline is:	 12.586001
+Total distance for:	Betsey is:	 72.168136
+Total distance for:	Jerald is:	 86.475484
+Total distance for:	Vincenza is:	 4.495429
+Total distance for:	Kristi is:	 17.642137
+Total distance for:	Barbera is:	 67.651430
+Total distance for:	Ying is:	 73.128347
+Total distance for:	Dorris is:	 90.002247
+Total distance for:	Cheryl is:	 57.475341
+Total distance for:	isha is:	 95.510901
+Total distance for:	Katlyn is:	 66.817326
+Total distance for:	Pearle is:	 45.628650
+Total distance for:	Bobbie is:	 43.339976
+Total distance for:	Fannie is:	 104.624468
+Total distance for:	Ela is:	 91.388899
+Total distance for:	Margit is:	 89.226003
+Total distance for:	Aleisha is:	 96.047627
+Total distance for:	Jackelyn is:	 16.546017
+Total distance for:	Jules is:	 58.101991
+Total distance for:	Willena is:	 93.066835
+Total distance for:	Perry is:	 44.457481
+Total distance for:	Willis is:	 31.398679
+Total distance for:	Son is:	 87.087937
+Total distance for:	Nieves is:	 96.158675
+Total distance for:	Nelson is:	 27.626678
+Total distance for:	Robin is:	 69.415590
+Total distance for:	Caterina is:	 22.135714
+Total distance for:	Tomi is:	 72.396625
+Total distance for:	Lavonna is:	 85.509804
+Total distance for:	Rasheeda is:	 68.567799
+Total distance for:	Lavinia is:	 45.265266
+Total distance for:	Hosea is:	 8.505616
+Total distance for:	Chong is:	 18.289883
+Total distance for:	Samatha is:	 59.627944
+Total distance for:	Donya is:	 48.560064
+Total distance for:	Melodee is:	 82.440808
+Total distance for:	Zulma is:	 25.359602
+Total distance for:	Phyliss is:	 46.090124
+Total distance for:	Marjorie is:	 60.215778
+Total distance for:	Eura is:	 0.870711
+Total distance for:	Mattie is:	 32.700524
+Total distance for:	Mozella is:	 144.101467
+Total distance for:	Fidel is:	 84.876749
+Total distance for:	Angie is:	 68.896191
+Total distance for:	Silvana is:	 27.286262
+Total distance for:	Francine is:	 27.030380
+Total distance for:	Ellena is:	 11.835927
+Total distance for:	Lexie is:	 111.165341
+Total distance for:	Pasty is:	 10.354989
+Total distance for:	Judi is:	 7.831605
+Total distance for:	Kendall is:	 86.102586
+Total distance for:	Rosendo is:	 59.109244
+Total distance for:	Hillary is:	 12.643597
+Total distance for:	Quiana is:	 44.601535
+Total distance for:	Tonita is:	 6.123578
+Total distance for:	Marybeth is:	 67.969786
+Total distance for:	Shela is:	 22.492209
+Total distance for:	Brittny is:	 81.554197
+Total distance for:	Delmy is:	 17.923026
+Total distance for:	Otto is:	 111.192995
+Total distance for:	Brenda is:	 53.006202
+Total distance for:	Ashley is:	 96.645020
+Total distance for:	Corinna is:	 88.255694
+Total distance for:	Dominque is:	 78.489747
+Total distance for:	Della is:	 29.776684
+Total distance for:	Maryland is:	 86.000749
+Total distance for:	Eve is:	 66.312958
+Total distance for:	Lawrence is:	 96.161479
+Total distance for:	Stefani is:	 22.880846
+Total distance for:	Ligia is:	 97.756316
+Total distance for:	Antonietta is:	 137.387896
+Total distance for:	Maire is:	 54.619748
+Total distance for:	Jon is:	 83.485599
+Total distance for:	Kathleen is:	 41.126477
+Total distance for:	Alix is:	 76.324248
+Total distance for:	Yaeko is:	 31.004835
+Total distance for:	Tianna is:	 38.624277
+Total distance for:	Debra is:	 20.099618
+Total distance for:	Alysa is:	 98.355414
+Total distance for:	Andera is:	 44.497828
+Total distance for:	Amiee is:	 70.590002
+Total distance for:	Leona is:	 91.831173
+Total distance for:	Quintin is:	 2.310800
+Total distance for:	Mendy is:	 145.544942
+Total distance for:	Coleen is:	 66.827983
+Total distance for:	Amado is:	 13.020547
+Total distance for:	Elanor is:	 99.462986
+Total distance for:	Sherill is:	 95.326966
+Total distance for:	Marceline is:	 35.691762
+Total distance for:	Nicole is:	 25.430921
+Total distance for:	Britteny is:	 48.819290
+Total distance for:	Carisa is:	 96.862004
+Total distance for:	Georgette is:	 5.348474
+Total distance for:	Tova is:	 58.833533
+Total distance for:	Margurite is:	 54.676853
+Total distance for:	Alba is:	 92.857001
+Total distance for:	Beatris is:	 18.034745
+Total distance for:	Shondra is:	 65.175637
+Total distance for:	Domenica is:	 53.406116
+Total distance for:	Mui is:	 25.900319
+Total distance for:	Tameika is:	 26.349445
+Total distance for:	Pinkie is:	 31.034550
+Total distance for:	Sanjuana is:	 39.745044
+Total distance for:	Theodore is:	 5.890471
+Total distance for:	Una is:	 7.425749
+Total distance for:	Michele is:	 73.475019
+Total distance for:	Temple is:	 45.218073
+Total distance for:	Noel is:	 65.124975
+Total distance for:	Lilla is:	 98.935747
+Total distance for:	Concepcion is:	 22.814109
+Total distance for:	Sunny is:	 56.671724
+Total distance for:	Audra is:	 47.553915
+Total distance for:	Noble is:	 97.120354
+Total distance for:	Laquanda is:	 93.821716
+Total distance for:	Billy is:	 2.041952
+Total distance for:	Nerissa is:	 47.210328
+Total distance for:	Malisa is:	 49.294309
+Total distance for:	Ferdinand is:	 70.370002
+Total distance for:	Candy is:	 54.357579
+Total distance for:	Lajuana is:	 99.082374
+Total distance for:	Pok is:	 87.738406
+Total distance for:	Anjelica is:	 27.935835
+Total distance for:	Youlanda is:	 20.199427
+Total distance for:	Tamara is:	 31.830442
+Total distance for:	Shani is:	 17.064563
+Total distance for:	Pearl is:	 9.334905
+Total distance for:	Linn is:	 142.705846
+Total distance for:	Alonso is:	 33.818369
+Total distance for:	Adah is:	 31.504608
+Total distance for:	Mitch is:	 99.748773
+Total distance for:	Angelique is:	 75.459965
+Total distance for:	Allen is:	 74.506400
+Total distance for:	Tenesha is:	 68.795687
+Total distance for:	Jolanda is:	 45.812689
+Total distance for:	Shaniqua is:	 66.164178
+Total distance for:	Juanita is:	 17.320990
+Total distance for:	Evie is:	 95.825507
+Total distance for:	Wilton is:	 61.663997
+Total distance for:	Diann is:	 70.597303
+Total distance for:	Pamella is:	 34.986123
+Total distance for:	Tory is:	 6.561469
+Total distance for:	Garry is:	 95.230912
+Total distance for:	Stefany is:	 68.704578
+Total distance for:	Bok is:	 94.042568
+Total distance for:	Britta is:	 81.276914
+Total distance for:	Hyacinth is:	 106.480177
+Total distance for:	Charise is:	 46.839238
+Total distance for:	Cathleen is:	 28.158442
+Total distance for:	Clair is:	 118.108607
+Total distance for:	Jolene is:	 96.241850
+Total distance for:	Daniele is:	 60.028295
+Total distance for:	Enedina is:	 80.261889
+Total distance for:	Shelli is:	 22.331832
+Total distance for:	Keith is:	 96.684986
+Total distance for:	Chanda is:	 49.084745
+Total distance for:	Felica is:	 76.470152
+Total distance for:	Patrina is:	 56.525439
+Total distance for:	Hyun is:	 99.408968
+Total distance for:	Clarita is:	 65.111420
+Total distance for:	Dorthy is:	 55.291777
+Total distance for:	Ailene is:	 97.902691
+Total distance for:	Ara is:	 3.179245
+Total distance for:	Felix is:	 36.847579
+Total distance for:	Tanisha is:	 35.960455
+Total distance for:	Justin is:	 44.639853
+Total distance for:	Tressa is:	 30.545217
+Total distance for:	Arden is:	 98.381289
+Total distance for:	Eloisa is:	 62.156792
+Total distance for:	Lincoln is:	 31.636163
+Total distance for:	Shalanda is:	 84.395763
+Total distance for:	Merna is:	 92.093442
+Total distance for:	Marylynn is:	 25.087650
+Total distance for:	Annelle is:	 74.957118
+Total distance for:	Rufus is:	 43.942810
+Total distance for:	Jake is:	 90.330872
+Total distance for:	Geralyn is:	 29.936866
+Total distance for:	Else is:	 57.039371
+Total distance for:	Minda is:	 33.551284
+Total distance for:	Olen is:	 14.083834
+Total distance for:	Cristobal is:	 5.665947
+Total distance for:	Zana is:	 51.419435
+Total distance for:	Delsie is:	 9.285607
+Total distance for:	Inez is:	 53.432096
+Total distance for:	Myrna is:	 93.280290
+Total distance for:	Kory is:	 83.038324
+Total distance for:	Thu is:	 17.216153
+Total distance for:	Taren is:	 50.411247
+Total distance for:	Leida is:	 77.836993
+Total distance for:	Aisha is:	 0.477290
+Total distance for:	Gregg is:	 63.374018
+Total distance for:	Marvis is:	 73.565455
+Total distance for:	Marquis is:	 59.679741
+Total distance for:	Michaela is:	 35.228242
+Total distance for:	Setsuko is:	 93.400962
+Total distance for:	Jannette is:	 12.991973
+Total distance for:	Lyda is:	 122.120999
+Total distance for:	Jerold is:	 74.158837
+Total distance for:	Mee is:	 38.740477
+Total distance for:	Phoebe is:	 91.680486
+Total distance for:	Portia is:	 80.911342
+Total distance for:	Tu is:	 41.774384
+Total distance for:	Johnathan is:	 62.324022
+Total distance for:	Mauro is:	 87.057174
+Total distance for:	Trevor is:	 128.405616
+Total distance for:	Shane is:	 32.775098
+Total distance for:	Lilia is:	 31.473772
+Total distance for:	Leandro is:	 33.352114
+Total distance for:	Cherelle is:	 121.854114
+Total distance for:	Alison is:	 157.384271
+Total distance for:	Anisa is:	 38.758282
+Total distance for:	Asa is:	 63.782679
+Total distance for:	Larhonda is:	 101.431754
+Total distance for:	Donte is:	 82.786168
+Total distance for:	Venetta is:	 43.358805
+Total distance for:	Meagan is:	 26.208468
+Total distance for:	Santana is:	 3.206066
+Total distance for:	Ernesto is:	 98.883421
+Total distance for:	Kevin is:	 53.613625
+Total distance for:	Christen is:	 85.591177
+Total distance for:	Jule is:	 101.429671
+Total distance for:	Lyndsey is:	 54.333215
+Total distance for:	Cari is:	 99.803631
+Total distance for:	Shasta is:	 48.347271
+Total distance for:	Georgeanna is:	 86.341803
+Total distance for:	Glynis is:	 205.821482
+Total distance for:	Nisha is:	 71.427404
+Total distance for:	Charla is:	 18.516824
+Total distance for:	Aurelio is:	 76.136510
+Total distance for:	Odelia is:	 84.957491
+Total distance for:	Enrique is:	 97.409567
+Total distance for:	Tamie is:	 9.790044
+Total distance for:	Enda is:	 13.535304
+Total distance for:	Faith is:	 39.821073
+Total distance for:	Richelle is:	 77.870452
+Total distance for:	Seth is:	 23.178791
+Total distance for:	Minerva is:	 28.224288
+Total distance for:	Kyle is:	 110.557182
+Total distance for:	Sharyl is:	 36.662895
+Total distance for:	Timika is:	 14.878389
+Total distance for:	Jacinto is:	 98.703553
+Total distance for:	Ronda is:	 174.810493
+Total distance for:	Anna is:	 4.703898
+Total distance for:	Dorthea is:	 39.843843
+Total distance for:	Russell is:	 25.118583
+Total distance for:	Eboni is:	 88.476393
+Total distance for:	Arletha is:	 12.886013
+Total distance for:	Theressa is:	 22.217449
+Total distance for:	Jacelyn is:	 47.699253
+Total distance for:	Kyra is:	 80.247214
+Total distance for:	Austin is:	 37.363023
+Total distance for:	Melodie is:	 82.031140
+Total distance for:	Gustavo is:	 99.000473
+Total distance for:	Aracelis is:	 63.143463
+Total distance for:	Alleen is:	 68.233235
+Total distance for:	Yuki is:	 22.516656
+Total distance for:	Lyle is:	 2.738506
+Total distance for:	Cinderella is:	 30.291112
+Total distance for:	Tarah is:	 95.056463
+Total distance for:	Chris is:	 118.347018
+Total distance for:	Tomas is:	 59.214346
+Total distance for:	Trenton is:	 79.434871
+Total distance for:	Elroy is:	 4.050591
+Total distance for:	Roseline is:	 78.644436
+Total distance for:	Suzann is:	 96.488984
+Max distance:	99.917610 by:	Roland
+Min distance:	0.057889 by:	Alex
+Total number of participants:	388
+Kevin 2
+Glynis 3
+Mendy 2
+Shondra 2
+Maximo 2
+Hilaria 2
+Fidel 2
+Kyle 2
+Richelle 2
+Nieves 2
+Florentina 2
+Tenesha 2
+Clarita 2
+Celinda 2
+Joycelyn 2
+Ernesto 2
+Otto 2
+Leora 2
+Glynis 3
+Carisa 2
+Shasta 2
+Mozella 2
+Anika 2
+Ailene 2
+Willis 2
+Sherman 2
+Leona 2
+Alda 2
+Randell 2
+Ariana 2
+Thomasena 2
+Julie 2
+Lyda 2
+Fannie 2
+Arden 2
+Ignacia 2
+Chris 2
+Tomi 2
+Ronna 2
+Alison 2
+Antonietta 2
+Shani 2
+Jamison 2
+Garry 2
+Scot 2
+Jule 2
+Jake 2
+Ronda 3
+Lexie 2
+Sherill 2
+Leon 2
+Mendy 2
+Shondra 2
+Maximo 2
+Hilaria 2
+Fidel 2
+Kyle 2
+Richelle 2
+Nieves 2
+Florentina 2
+Tenesha 2
+Clarita 2
+Celinda 2
+Joycelyn 2
+Ernesto 2
+Otto 2
+Leora 2
+Glynis 3
+Carisa 2
+Shasta 2
+Mozella 2
+Anika 2
+Ailene 2
+Willis 2
+Sherman 2
+Leona 2
+Alda 2
+Randell 2
+Ariana 2
+Thomasena 2
+Julie 2
+Lyda 2
+Fannie 2
+Arden 2
+Ignacia 2
+Chris 2
+Tomi 2
+Ronna 2
+Alison 2
+Antonietta 2
+Shani 2
+Jamison 2
+Garry 2
+Scot 2
+Jule 2
+Jake 2
+Ronda 3
+Lexie 2
+Sherill 2
+Leon 2
+Trevor 2
+Larhonda 2
+Clair 2
+Cherelle 2
+Ronda 3
+Trevor 2
+Aleisha 2
+Linn 2
+Larhonda 2
+Kevin 2
+Grayce 2
+Todd 2
+Clair 2
+Hyacinth 2
+Todd 2
+Aleisha 2
+Linn 2
+Hien 2
+Cherelle 2
+Grayce 2
+Hyacinth 2
+Hien 2
